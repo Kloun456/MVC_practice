@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_pactice.Server", "MVC_pactice.Server\MVC_pactice.Server.csproj", "{87389DBE-26D4-4940-A947-1EE6007120DD}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "mvc_pactice.client", "mvc_pactice.client\mvc_pactice.client.esproj", "{68BE1C65-6BFA-4103-892D-2BFA7A7820BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87389DBE-26D4-4940-A947-1EE6007120DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87389DBE-26D4-4940-A947-1EE6007120DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87389DBE-26D4-4940-A947-1EE6007120DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87389DBE-26D4-4940-A947-1EE6007120DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BE1C65-6BFA-4103-892D-2BFA7A7820BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BE1C65-6BFA-4103-892D-2BFA7A7820BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BE1C65-6BFA-4103-892D-2BFA7A7820BA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{68BE1C65-6BFA-4103-892D-2BFA7A7820BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BE1C65-6BFA-4103-892D-2BFA7A7820BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BE1C65-6BFA-4103-892D-2BFA7A7820BA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2F18544-CC70-490E-83A3-1F4F27064753}
+	EndGlobalSection
+EndGlobal

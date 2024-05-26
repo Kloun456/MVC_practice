@@ -1,0 +1,4 @@
+@MVC_pactice.Server_HostAddress = http://localhost:5291
+
+GET {{MVC_pactice.Server_HostAddress}}/weatherforecast/
+Accept: application/json

@@ -1,0 +1,1 @@
+C:\Repository\MVC_practice\mvc_pactice.client\obj\Debug\mvc_pactice.client.esproj.CoreCompileInputs.cache
