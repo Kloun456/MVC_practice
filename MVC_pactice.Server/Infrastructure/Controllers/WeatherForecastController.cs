@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace MVC_pactice.Server.Controllers
+namespace MVC_pactice.Server.Infrastructure.Controllers
 {
     [ApiController]
     [Route("[controller]")]
